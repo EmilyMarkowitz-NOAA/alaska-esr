@@ -22,9 +22,9 @@ book:
         department: School of Aquatic and Fisheries Sciences
   - name: Emily Markowitz
     email: Emily.Markowitz AT noaa.gov
-     orcid: 0000-0001-5757-4230
-     note: https://github.com/EmilyMarkowitz-NOAA
-     affiliations:
+    orcid: 0000-0001-5757-4230
+    note: https://github.com/EmilyMarkowitz-NOAA
+    affiliations:
         - name: NOAA Fisheres Alaska Fisheries Science Center
           department: Groundfish Assessment Program
         address: 
