@@ -3,45 +3,41 @@ project:
   output-dir: docs
 
 book:
-  title: An example tech memo
+  title: Ecosystem Status Report Aleutian Islands, Bering Sea, and Gulf of Alaska
   subtitle: The subtitle
-  date: January 2023
+  date: March 2026
   downloads: [pdf, docx]
   author:
-  - name: Jane Doe
+  - name: Bridget Ferriss
+    email: Bridget.Ferriss AT noaa.gov 
+    note: https://github.com/BridgetFerriss  
     affiliations:
-      - id: nwfsc-cb
-        name: Northwest Fisheries Science Center
-        department: Conservation Biology Division
+      - name: NOAA Fisheres Alaska Fisheries Science Center
+        department: Resource Ecology and Fisheries Management Division
         address: 
-          - 2725 Montlake Boulevard East
-          - Seattle, Washington 98112
+          - 7600 Sandpoint Way NE
+          - Seattle, Washington 98115
       - id: uw-safs
         name: University of Washington
         department: School of Aquatic and Fisheries Sciences
-  - name: Eva Nováková
-    affiliations:
-      - ref: uw-safs
-  - name: Matti Meikäläinen
-    email: matti@jy.fi
-    affiliations:
-      - name: University of Kemijärvi
-        department: Department of Biological and Environmental Science
-        address: Kylmäniementie 79, 98120, KEMIJÄRVI, Finland
-  - name: Ashok Kumar
-    affiliations:
-      - name: University of Minnesota
-        department: Department of Mathematics
-      - name: HØnefoss Institute
-        address: R Tradição 35, Portugal 2950-726
+    - name: Emily Markowitz
+      email: Emily.Markowitz AT noaa.gov 
+      orcid: 0000-0001-5757-4230
+      note: https://github.com/EmilyMarkowitz-NOAA
+      affiliations:
+        - name: NOAA Fisheres Alaska Fisheries Science Center
+          department: Groundfish Assessment Program
+        address: 
+          - 7600 Sandpoint Way NE
+          - Seattle, Washington 98115
   chapters:
     - index.qmd
     - text/Chapter1.qmd
     - text/conclusion.qmd
     - text/references.qmd
 
-  site-url: https://nmfs-opensci.github.io/NOAA-tech-memo-template/
-  repo-url: https://github.com/nmfs-opensci/NOAA-tech-memo-template
+  site-url: https://EmilyMarkowitz-NOAA.io/alaska-esr/
+  repo-url: https://github.com/EmilyMarkowitz-NOAA/alaska-esr
   repo-actions: [edit, source, issue]
   search: true
 
