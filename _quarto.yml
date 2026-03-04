@@ -25,8 +25,8 @@ book:
     orcid: 0000-0001-5757-4230
     note: https://github.com/EmilyMarkowitz-NOAA
     affiliations:
-        - name: NOAA Fisheres Alaska Fisheries Science Center
-          department: Groundfish Assessment Program
+      - name: NOAA Fisheres Alaska Fisheries Science Center
+        department: Groundfish Assessment Program
         address: 
           - 7600 Sandpoint Way NE
           - Seattle, Washington 98115
