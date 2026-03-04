@@ -9,7 +9,7 @@ book:
   downloads: [pdf, docx]
   author:
   - name: Bridget Ferriss
-    email: Bridget.Ferriss AT noaa.gov 
+    email: Bridget.Ferriss AT noaa.gov
     note: https://github.com/BridgetFerriss  
     affiliations:
       - name: NOAA Fisheres Alaska Fisheries Science Center
@@ -20,11 +20,11 @@ book:
       - id: uw-safs
         name: University of Washington
         department: School of Aquatic and Fisheries Sciences
-    - name: Emily Markowitz
-      email: Emily.Markowitz AT noaa.gov 
-      orcid: 0000-0001-5757-4230
-      note: https://github.com/EmilyMarkowitz-NOAA
-      affiliations:
+  - name: Emily Markowitz
+    email: Emily.Markowitz AT noaa.gov
+     orcid: 0000-0001-5757-4230
+     note: https://github.com/EmilyMarkowitz-NOAA
+     affiliations:
         - name: NOAA Fisheres Alaska Fisheries Science Center
           department: Groundfish Assessment Program
         address: 
